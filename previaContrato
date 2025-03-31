@@ -1,0 +1,51 @@
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE AUTOMAÇÃO DE PROCESSOS
+Entre as partes:
+Contratante: [Nome da Empresa], com sede em [Endereço], inscrita no CNPJ sob nº [CNPJ], representada neste ato por [Nome do Representante], doravante denominada "Contratante".
+Contratado: Cainã Guedes, inscrito no CPF sob nº [Seu CPF], portador do MEI sob nº [Nº MEI], residente em [Seu Endereço], doravante denominado "Contratado".
+As partes têm, entre si, justo e acordado o presente Contrato de Prestação de Serviços, que se regerá pelas seguintes cláusulas e condições:
+1. Objeto do Contrato
+1.1. O presente contrato tem como objeto a prestação de serviços de automação de processos operacionais pelo Contratado, com o objetivo de otimizar tarefas repetitivas realizadas pela Contratante, mediante remuneração baseada no tempo economizado pelas automações implementadas.
+1.2. As automações desenvolvidas pelo Contratado serão fornecidas em regime de comodato durante a vigência do contrato, podendo ser adquiridas permanentemente pela Contratante mediante as condições previstas na Cláusula 6.
+1.3. O Contratado terá acesso aos setores e departamentos necessários da Contratante para análise, medição e levantamento manual do tempo de execução das tarefas, a fim de calcular os ganhos proporcionados pelas automações.A autorização para Este acesso será presumida para todos os departamentos exceto os que o contratante, por e-mail, desautorizar.
+1.4. A Contratante compromete-se a viabilizar o acesso do Contratado aos ambientes físicos e digitais necessários para a execução e validação das automações.
+2. Prestação dos Serviços
+2.1. O Contratado desenvolverá, implementará e monitorará as automações, registrando cada execução com os seguintes dados:
+(a) Identificação do funcionário ou do computador em que a automação foi executada. (b) Data e horário da execução. (c) Tempo economizado em relação ao processo manual.
+2.2. Durante a vigência deste contrato, as automações serão disponibilizadas exclusivamente em regime de comodato.
+2.3. O Contratado poderá utilizar, a critério da Contratante, um equipamento fornecido pela empresa ou o seu próprio equipamento, com acesso remoto aos sistemas da Contratante.
+2.4. É expressamente vedado à Contratante copiar, mover, alterar, compartilhar ou deletar as automações, seus códigos, banco de dados ou quaisquer componentes desenvolvidos pelo Contratado sem autorização expressa e por escrito.
+2.5. Cada máquina onde as automações forem instaladas possuirá um banco de dados local contendo o histórico das automações executadas. Este banco de dados não poderá ser acessado, movido, alterado ou deletado pela Contratante ou por seus funcionários sob pena de multa no valor de R$ 100,00 por ocorrência.
+2.6. Para segurança adicional, o Contratado implementará cópias ocultas do banco de dados, que serão mantidas de forma a registrar qualquer tentativa de violação, alteração ou exclusão do conteúdo original.
+3. Remuneração
+3.1. O pagamento ao Contratado será calculado exclusivamente com base no tempo efetivamente economizado pelas automações, conforme registrado no sistema de rastreamento.
+3.2. Não haverá qualquer pagamento fixo ou mínimo obrigatório ao Contratado. A Contratante só será responsável por remuneração diretamente vinculada aos resultados alcançados.
+3.3. O valor devido será calculado mensalmente, com base no tempo economizado, multiplicado pelo custo-hora integral de um funcionário em regime CLT que receba o salário mínimo vigente.
+3.4. As informações referentes à remuneração do Contratado são sigilosas e não poderão ser divulgadas a quaisquer funcionários ou terceiros sem autorização expressa e por escrito do Contratado.
+4. Confidencialidade
+4.1. Ambas as partes se comprometem a manter em sigilo todas as informações técnicas, comerciais e estratégicas compartilhadas durante a execução deste contrato.
+4.2. O Contratado não está autorizado a retirar, copiar ou divulgar qualquer informação sensível da Contratante sem autorização prévia e por escrito.
+5. Propriedade Intelectual
+5.1. As automações desenvolvidas pelo Contratado permanecerão sob sua propriedade intelectual exclusiva e estarão disponíveis em regime de comodato durante a vigência do contrato.
+5.2. Caso a Contratante deseje adquirir permanente e individualmente qualquer das automações após um mínimo de 3 (três) meses de histórico comprovado de uso da automação específica, o valor será calculado com base em um valuation padrão de fluxo de caixa, considerando o valor presente das economias geradas pelas automações.
+5.3. A fórmula de cálculo será:
+Valor de Compra = (Economia Mensal Gerada) ÷ (Taxa de Juros de Mercado Atual + 1%).
+Por exemplo, se uma automação gera economia de R$ 1.000,00 por mês e a taxa de juros(SELIC) vigente é de 1% ao mês, o valor de aquisição será de R$ 50.000,00.
+5.4. Em caso de compra de automações pela Contratante, cessam todas as obrigações do Contratado em relação à manutenção, suporte ou qualquer tipo de aprimoramento das automações adquiridas assim como os pagamentos referentes ao uso das mesmas. Qualquer serviço adicional solicitado após a aquisição será negociado separadamente e formalizado em novo contrato ou aditivo específico.
+
+6. Prazo e Rescisão
+6.1. O presente contrato terá prazo inicial de 6 (seis) meses, com início em [Data de Início] e término em [Data de Término], podendo ser renovado por acordo mútuo.
+6.2. Caso a Contratante decida rescindir o contrato antes do prazo acordado, será comunicar por escrito 30 dias antes. Apos este prazo às automações serão desativadas e removidas imediatamente dos sistemas da empresa, salvo em caso de compra nos termos da Cláusula 5. E será paga uma ultima parcela referente ao uso das automações até a data de remoção das mesmas.
+6.3. Em caso de descumprimento de qualquer cláusula deste contrato, a parte infratora deverá reparar os danos causados, sem prejuízo da rescisão imediata do contrato e da aplicação de multa no valor de 2 vezes o valor acumulado gerado pelo contrato.
+6.4. A rescisão não exime a Contratante do pagamento dos valores já devidos em função do tempo economizado até a data de término.
+7. Disposições Gerais
+7.1. Este contrato é celebrado em caráter personalíssimo, sendo vedada a cessão ou transferência de direitos e obrigações sem autorização expressa da outra parte.
+7.2. Qualquer alteração ou aditivo ao presente contrato deverá ser formalizado por escrito e assinado por ambas as partes.
+7.3. Fica eleito o foro da comarca de [Cidade/Estado] para dirimir quaisquer controvérsias decorrentes deste contrato, renunciando as partes a qualquer outro, por mais privilegiado que seja.
+E, por estarem de comum acordo, as partes assinam o presente contrato em duas vias de igual teor e forma.
+[Local], [Data]
+
+[Nome do Contratante]
+
+Cainã Guedes (Contratado)
+
+
